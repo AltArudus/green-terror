@@ -1,0 +1,33 @@
+{
+  "name": "green-terror",
+  "displayName": "Green Terror",
+  "description": "Green VSC Theme",
+  "version": "0.0.1",
+  "publisher": "arudus",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AltArudus/green-terror"
+  },
+
+  "icon": "images/dragon.png",
+  "galleryBanner": {
+    "color": "#0b1e1a",
+    "theme": "dark"
+  },
+
+  "engines": {
+    "vscode": "^1.72.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Green Terror",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Green Terror-color-theme.json"
+      }
+    ]
+  }
+}
