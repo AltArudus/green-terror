@@ -800,7 +800,7 @@
       "name": "Attribute class",
       "scope": "entity.other.attribute-name.class.css",
       "settings": {
-        "fontStyle": "italic bold",
+        "fontStyle": "bold",
         "foreground": "#737a79"
       }
     },
