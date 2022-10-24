@@ -2,19 +2,17 @@
   "name": "green-terror",
   "displayName": "Green Terror",
   "description": "Green VSC Theme",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "publisher": "arudus",
   "repository": {
     "type": "git",
     "url": "https://github.com/AltArudus/green-terror"
   },
-
   "icon": "img/dragon.png",
   "galleryBanner": {
     "color": "#0b1e1a",
     "theme": "dark"
   },
-
   "engines": {
     "vscode": "^1.72.0"
   },
